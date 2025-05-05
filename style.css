@@ -12,17 +12,6 @@
     background: radial-gradient(circle, #9999b117, #b1b1b138); 
       font-family: "Open Sans", sans-serif;
       font-optical-sizing: auto;
-      font-weight: <weight>;
-      font-style: normal;
-      font-variation-settings:
-        "wdth" 100;
-        font-family: "Playwrite RO", cursive;
-    font-optical-sizing: auto;
-    font-weight: <weight>;
-    font-style: normal;
-    font-family: "Special Gothic Expanded One", sans-serif;
-    font-weight: 400;
-    font-style: normal;
   }
   .nut{
     font-size: 30px;
