@@ -1,0 +1,46 @@
+.kil{
+    background-color: #383838;
+    width: auto;
+    height: 65px;
+  }
+  .button{
+    font-size: 12px;
+    background-color: rgba(223, 225, 226, 0.836);
+    color: rgb(255, 255, 255);
+    padding: 9px 20px;       
+    border-radius: 10px;               
+    background: radial-gradient(circle, #9999b117, #b1b1b138); 
+      font-family: "Open Sans", sans-serif;
+      font-optical-sizing: auto;
+      font-weight: <weight>;
+      font-style: normal;
+      font-variation-settings:
+        "wdth" 100;
+        font-family: "Playwrite RO", cursive;
+    font-optical-sizing: auto;
+    font-weight: <weight>;
+    font-style: normal;
+    font-family: "Special Gothic Expanded One", sans-serif;
+    font-weight: 400;
+    font-style: normal;
+  }
+  .nut{
+    font-size: 30px;
+    color: rgb(235, 235, 235);
+      display: inline-block;
+      margin-left: 10px;
+      border-radius: 8px;           
+      cursor: pointer;    
+      box-shadow: #575656;        
+  }
+  .lol{
+    background: radial-gradient(circle, #000000, #7f7e8f);
+  }
+  body {
+    transition: transform 0.3s ease;
+  }
+  .ik{
+    height: 500px;
+    width: auto;
+  }
+  
